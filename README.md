@@ -39,4 +39,4 @@ Also uploaded above by the name : "Comcast-ComplaintDataset.csv"
 Stepwise analysis is performed with respect to the [Project Motivation](#ProjectMotivation).
 
 ## 5. Result<a name="results"></a>
-The details of the results are shown in the jupyter notebook itself along the source code.
+The details of the results are shown in the jupyter notebook itself along the source code. Click here to see the result -> [Result](https://github.com/piyushkumar08/Comcast-Telecom-Consumer-Complaints/blob/main/Comcast-Customer_Complaint_Analysis.ipynb) 
